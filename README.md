@@ -1,2 +1,2 @@
-# Lab02-SO-Cristian-Florez
-Solución al Lab 02 del curso Sistemas Operativos y Laboratorio.
+Informe en el archivo: Informe_Lab_02_Cristian_Florez
+Enlace video sustentación: https://youtu.be/Dt-8XR3VLls
